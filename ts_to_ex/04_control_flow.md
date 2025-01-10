@@ -1,3 +1,7 @@
+%{
+    title: "Control Flow"
+}
+---
 
 
 As mentioned in the previous post on [functions](link), control flow is where we first start to really feel the difference of thinking elixir vs a C-Style language. Elixir's control flow can be broken into 5 concepts: `if`, `with`, `case`,  `cond`, and as a more general concept, pattern matching.

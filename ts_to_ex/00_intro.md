@@ -1,4 +1,7 @@
-
+%{
+    title: "Introduction"
+}
+---
 # Preface TODO - LINKS
 
 This series is both my introductory exploration into writing (bare with me), and an effort to help curious JavaScript(JS) or TypeScript(TS) developers bridge the gap to other syntactic families. Although the examples will be mostly in JS/TS, I hope this can provide reference to any engineer who has worked in a C-style language (JS/TS/C/C++/Java/C#), but wants to explore other horizons. 

@@ -1,2 +1,6 @@
 
+%{
+    title: "Types"
+}
+---
 # TODO

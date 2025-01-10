@@ -1,3 +1,7 @@
+%{
+    title: "Functions"
+}
+---
 # Public, Private, Anonymous Functions
 
 
